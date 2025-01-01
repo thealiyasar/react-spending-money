@@ -11,4 +11,4 @@ Proje genel olarak belirtilen bir miktarın harcanması üzerine yapılmış gö
 
 React üzerinde gelişmek ve pratik yapmak için oluşturulmuştur.
 
-[DEMO](adasd)
+[DEMO](https://react-spending-money-pink.vercel.app/)
